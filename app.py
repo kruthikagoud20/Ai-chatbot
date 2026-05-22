@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # OpenRouter API Key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR API KEY"
 
 
 # OR directly:
